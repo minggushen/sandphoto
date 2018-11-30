@@ -29,7 +29,7 @@
 
                     <div class="entry-content">
 
-                        <script type="text/javascript" src="./js/show_ads.js"></script>
+//                        <script type="text/javascript" src="./js/show_ads.js"></script>
                         <script type="text/javascript" src="./jquery-1.4.4.min.js"></script><br />
                         <script type="text/javascript" src="./sandphoto.js"></script>
 
