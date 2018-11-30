@@ -5,7 +5,7 @@
     <title>wyz照片生成器</title>
     <link rel="profile" href="http://gmpg.org/xfn/11"/>
     <link rel="stylesheet" type="text/css" media="all"
-          href="/css/style.css"/>
+          href="./css/style.css"/>
     <!--<link rel="pingback" href="http://www.sandcomp.com/blog/xmlrpc.php"/>-->
 
     <script type='text/javascript'
@@ -34,12 +34,11 @@
 
                     <div class="entry-content">
 
+                        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+                        <script type="text/javascript" src="http://www.sandcomp.com/sandphoto/jquery-1.4.4.min.js"></script><br />
+                        <script type="text/javascript" src="http://www.sandcomp.com/sandphoto/sandphoto.js"></script>
 
-                        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></p>
-                        <p><script type="text/javascript" src="http://www.sandcomp.com/sandphoto/jquery-1.4.4.min.js"></script><br />
-                        <script type="text/javascript" src="http://www.sandcomp.com/sandphoto/sandphoto.js"></script></p>
-
-                        <form id="sandphotoform" action="/sandphoto/sandphoto.php" method="POST"
+                        <form id="sandphotoform" action="./sandphoto.php" method="POST"
                               enctype="multipart/form-data"><strong>第一步</strong>, 选择你要冲洗的证件照片的尺寸：
                               <br/>
                             <select name='target_type' id='target_type'>
@@ -109,7 +108,7 @@
                             </strong>
                         </form>
 
-                    </div><!-- .entry-content -->
+                    </div>
                 </div><!-- #post-## -->
                 <!-- JiaThis Button BEGIN -->
                 <div class="jiathis_style_32x32">
