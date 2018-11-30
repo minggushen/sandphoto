@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39284afa-6ea9-4203-800e-aa1acce30849" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preview.php" beforeDir="false" afterPath="$PROJECT_DIR$/preview.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
         <counts>
           <entry key="html" value="27" />
           <entry key="js" value="1" />
-          <entry key="php" value="30" />
+          <entry key="php" value="31" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
@@ -53,7 +54,7 @@
         <counts>
           <entry key="HTML" value="27" />
           <entry key="JavaScript" value="1" />
-          <entry key="PHP" value="30" />
+          <entry key="PHP" value="31" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -61,20 +62,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="44" column="79" lean-forward="true" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+            <state relative-caret-position="405">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preview.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="428">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -124,6 +125,8 @@
       <find>冲洗</find>
       <find>preview-</find>
       <find>googlesyndication</find>
+      <find>adservice.google.co</find>
+      <find>gead2.googlesyndica</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -134,8 +137,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sandphoto.js" />
-        <option value="$PROJECT_DIR$/preview.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/preview.php" />
       </list>
     </option>
   </component>
@@ -188,10 +191,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="sandphoto&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.js&#10;sandphoto.php&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.php" />
+    <property name="SearchEverywhereHistoryKey" value="preview.php&#9;FILE&#9;file://D:/work/demo/sandphoto/preview.php&#10;sandphoto&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.js&#10;sandphoto.php&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543580040091" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543580386218" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -396,7 +399,7 @@
       <updated>1543404571769</updated>
       <workItem from="1543404575769" duration="1502000" />
       <workItem from="1543566057734" duration="2476000" />
-      <workItem from="1543569000490" duration="5101000" />
+      <workItem from="1543569000490" duration="5355000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/minggushen/sandphoto&#10;&#10;# Conflicts:&#10;#&#9;README.md">
       <created>1543569026433</created>
@@ -489,11 +492,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543579923806</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="试试能用吗">
+      <created>1543580084647</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543580084647</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9079000" />
+    <option name="totallyTimeSpent" value="9333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -594,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preview.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sandphoto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -613,8 +616,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="44" column="79" lean-forward="true" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
