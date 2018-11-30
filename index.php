@@ -6,17 +6,12 @@
     <link rel="profile" href="http://gmpg.org/xfn/11"/>
     <link rel="stylesheet" type="text/css" media="all"
           href="./css/style.css"/>
-    <!--<link rel="pingback" href="http://www.sandcomp.com/blog/xmlrpc.php"/>-->
 
     <script type='text/javascript'
             src='./js/comment-reply.js?ver=3.4.2'></script>
     <script type='text/javascript'
             src='./js/jquery/jquery.js?ver=1.7.2'></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/blog/xmlrpc.php?rsd"/>
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-          href="/blog/wp-includes/wlwmanifest.xml"/>
-    <!--<link rel='prev' title='关于' href='http://www.sandcomp.com/blog/about/'/>-->
-    <!--<link rel='next' title='SandGeoTag' href='http://www.sandcomp.com/blog/sandgeotag/'/>-->
+
     <meta name="generator" content="WordPress 3.4.2"/>
 
     <!-- All in One SEO Pack 1.6.14.3 by Michael Torbert of Semper Fi Web Design[82,134] -->
