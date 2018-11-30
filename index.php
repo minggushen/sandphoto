@@ -142,6 +142,17 @@
     <div id="footer" role="contentinfo">
     </div><!-- #footer -->
 
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('#commentform').submit(function() {
+                _gaq.push(
+                    ['_setAccount','UA-19950260-1'],
+                    ['_trackEvent','comment','submit']
+                );
+            });
+        });
+    </script>
+
 </div><!-- #wrapper -->
 
 
