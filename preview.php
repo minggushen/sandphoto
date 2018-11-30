@@ -25,7 +25,7 @@ if (!file_exists($cachePath))
 	$p->preview_image($cachePath);
         system("/usr/local/bin/optipng " . $cachePath . " >/dev/null 2>/dev/null");
 }
-header("location: temp/" . $cacheFilename);
+header("location: ./" . $cacheFilename);
 exit();
 
 
