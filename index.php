@@ -50,25 +50,14 @@
                     <h1 class="entry-title">证件照片排版在线生成器</h1>
 
                     <div class="entry-content">
-                        <p class="alignright">
-                            <script type="text/javascript">// <![CDATA[
-                            google_ad_client = "pub-3211482821542020";
-                            /* 250x250, 创建于 11-3-2 */
-                            google_ad_slot = "1926756648";
-                            google_ad_width = 250;
-                            google_ad_height = 250;
-                            // ]]&gt;</script>
-                            <br/>
-                            <script type="text/javascript"
-                                    src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-                        </p>
-                        <p>
-                            <script type="text/javascript"
-                                    src="http://www.sandcomp.com/sandphoto/jquery-1.4.4.min.js"></script>
-                            <br/>
-                            <script type="text/javascript"
-                                    src="http://www.sandcomp.com/sandphoto/sandphoto.js"></script>
-                        </p>
+
+//                        <p>
+//                            <script type="text/javascript"
+//                                    src="http://www.sandcomp.com/sandphoto/jquery-1.4.4.min.js"></script>
+//                            <br/>
+//                            <script type="text/javascript"
+//                                    src="http://www.sandcomp.com/sandphoto/sandphoto.js"></script>
+//                        </p>
 
                         <form id="sandphotoform" action="/sandphoto/sandphoto.php" method="POST"
                               enctype="multipart/form-data"><strong>第一步</strong>, 选择你要冲洗的证件照片的尺寸：<br/>
@@ -175,37 +164,10 @@
     </div><!-- #main -->
 
     <div id="footer" role="contentinfo">
-        <div id="colophon">
-
-
-            <div id="site-info">
-                <a href="http://www.sandcomp.com/blog/" title="沙计算" rel="home">
-                    沙计算 </a>
-            </div><!-- #site-info -->
-
-            <div id="site-generator">
-                <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly
-                    powered by WordPress.</a>
-            </div><!-- #site-generator -->
-
-        </div><!-- #colophon -->
     </div><!-- #footer -->
 
 </div><!-- #wrapper -->
 
-<div class="license_block">
-    <div class="wp_license">
 
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/cn/"><img
-                src="http://i.creativecommons.org/l/by-nc-nd/2.5/cn/88x31.png"
-                alt="Creative Commons Attribution-NonCommercial-NoDerivs 2.5 中国大陆"/></a>
-        <br/>
-        This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.sandcomp.com/"
-                        property="cc:attributionName" rel="cc:attributionURL">Albert</a> is licensed under a <a
-            rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/cn/">Creative Commons
-        Attribution-NonCommercial-NoDerivs 2.5 中国大陆</a>.
-
-    </div>
-</div>
 </body>
 </html>
