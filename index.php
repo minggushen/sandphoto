@@ -34,9 +34,9 @@
 
                     <div class="entry-content">
 
-                        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-                        <script type="text/javascript" src="http://www.sandcomp.com/sandphoto/jquery-1.4.4.min.js"></script><br />
-                        <script type="text/javascript" src="http://www.sandcomp.com/sandphoto/sandphoto.js"></script>
+                        <script type="text/javascript" src="./js/show_ads.js"></script>
+                        <script type="text/javascript" src="./jquery-1.4.4.min.js"></script><br />
+                        <script type="text/javascript" src="./sandphoto.js"></script>
 
                         <form id="sandphotoform" action="./sandphoto.php" method="POST"
                               enctype="multipart/form-data"><strong>第一步</strong>, 选择你要冲洗的证件照片的尺寸：
