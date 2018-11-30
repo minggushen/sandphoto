@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39284afa-6ea9-4203-800e-aa1acce30849" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="53" selection-start-line="53" selection-end-line="59" selection-end-column="28" />
+            <state relative-caret-position="495">
+              <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
             </state>
           </provider>
         </entry>
@@ -77,6 +76,7 @@
       <find>第三步</find>
       <find>复活记</find>
       <find>access</find>
+      <find>contentinfo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,7 +137,7 @@
     <property name="SearchEverywhereHistoryKey" value="sandphoto.php&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543571741826" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543571914463" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -342,7 +342,7 @@
       <updated>1543404571769</updated>
       <workItem from="1543404575769" duration="1502000" />
       <workItem from="1543566057734" duration="2476000" />
-      <workItem from="1543569000490" duration="1459000" />
+      <workItem from="1543569000490" duration="1708000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/minggushen/sandphoto&#10;&#10;# Conflicts:&#10;#&#9;README.md">
       <created>1543569026433</created>
@@ -358,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543569441246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="改名">
+      <created>1543571748357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543571748357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5437000" />
+    <option name="totallyTimeSpent" value="5686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -458,8 +465,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="53" selection-start-line="53" selection-end-line="59" selection-end-column="28" />
+        <state relative-caret-position="495">
+          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
         </state>
       </provider>
     </entry>
