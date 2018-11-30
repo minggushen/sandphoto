@@ -44,15 +44,14 @@
     <div id="main">
         <div id="container">
             <div id="content" role="main">
-
-
                 <div id="post-15" class="post-15 page type-page status-publish hentry">
                     <h1 class="entry-title">证件照片排版在线生成器</h1>
 
                     <div class="entry-content">
 
                         <form id="sandphotoform" action="/sandphoto/sandphoto.php" method="POST"
-                              enctype="multipart/form-data"><strong>第一步</strong>, 选择你要冲洗的证件照片的尺寸：<br/>
+                              enctype="multipart/form-data"><strong>第一步</strong>, 选择你要冲洗的证件照片的尺寸：
+                              <br/>
                             <select name='target_type' id='target_type'>
                                 <option value='0'>1寸 (2.50cm * 3.50cm)</option>
                                 <option value='1'>大一寸 (3.30cm * 4.80cm)</option>
