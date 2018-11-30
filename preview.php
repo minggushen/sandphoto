@@ -1,8 +1,8 @@
 <?php
 include("sandphoto.inc");
 
-$filename = "/var/sandcomp/apache/htdocs/sandphoto/sample.jpg";
-$temp_path = "/var/sandcomp/apache/htdocs/sandphoto/temp";
+$filename = "/var/www/html/sandphoto/sample.jpg";
+$temp_path = "/var/www/html/sandphoto/temp";
 
 
 $target_type = $_GET["t"];

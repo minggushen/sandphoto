@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39284afa-6ea9-4203-800e-aa1acce30849" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preview.php" beforeDir="false" afterPath="$PROJECT_DIR$/preview.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +23,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="123" value="1" />
           <entry key="css" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="inc" value="1" />
@@ -38,12 +38,13 @@
           <entry key="CSS" value="1" />
           <entry key="JavaScript" value="7" />
           <entry key="PHP" value="2" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="123" value="3" />
           <entry key="html" value="27" />
           <entry key="js" value="1" />
           <entry key="php" value="31" />
@@ -55,7 +56,7 @@
           <entry key="HTML" value="27" />
           <entry key="JavaScript" value="1" />
           <entry key="PHP" value="31" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -66,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -74,8 +75,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preview.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="52">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp/123">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -84,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/sandphoto.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -93,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/sandphoto.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="756">
-              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -121,11 +131,11 @@
       <find>preview.php</find>
       <find>preview</find>
       <find>temp</find>
-      <find>sandphoto</find>
       <find>冲洗</find>
-      <find>preview-</find>
       <find>googlesyndication</find>
       <find>adservice.google.co</find>
+      <find>preview-</find>
+      <find>sandphoto</find>
       <find>gead2.googlesyndica</find>
     </findStrings>
   </component>
@@ -139,6 +149,7 @@
         <option value="$PROJECT_DIR$/sandphoto.js" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/preview.php" />
+        <option value="$PROJECT_DIR$/temp/123" />
       </list>
     </option>
   </component>
@@ -182,7 +193,7 @@
             <path>
               <item name="sandphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandphoto" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +205,7 @@
     <property name="SearchEverywhereHistoryKey" value="preview.php&#9;FILE&#9;file://D:/work/demo/sandphoto/preview.php&#10;sandphoto&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.js&#10;sandphoto.php&#9;FILE&#9;file://D:/work/demo/sandphoto/sandphoto.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543580386218" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543580467518" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -399,7 +410,7 @@
       <updated>1543404571769</updated>
       <workItem from="1543404575769" duration="1502000" />
       <workItem from="1543566057734" duration="2476000" />
-      <workItem from="1543569000490" duration="5355000" />
+      <workItem from="1543569000490" duration="5597000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/minggushen/sandphoto&#10;&#10;# Conflicts:&#10;#&#9;README.md">
       <created>1543569026433</created>
@@ -499,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543580084647</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="试试能用吗">
+      <created>1543580400597</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543580400597</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9333000" />
+    <option name="totallyTimeSpent" value="9575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -597,34 +615,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandphoto.js">
+    <entry file="file://$PROJECT_DIR$/js/show_ads.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/123">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandphoto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/show_ads.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/sandphoto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preview.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="52">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="56" />
         </state>
       </provider>
     </entry>
