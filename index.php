@@ -9,9 +9,9 @@
     <!--<link rel="pingback" href="http://www.sandcomp.com/blog/xmlrpc.php"/>-->
 
     <script type='text/javascript'
-            src='/js/comment-reply.js?ver=3.4.2'></script>
+            src='./js/comment-reply.js?ver=3.4.2'></script>
     <script type='text/javascript'
-            src='/js/jquery/jquery.js?ver=1.7.2'></script>
+            src='./js/jquery/jquery.js?ver=1.7.2'></script>
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/blog/xmlrpc.php?rsd"/>
     <link rel="wlwmanifest" type="application/wlwmanifest+xml"
           href="/blog/wp-includes/wlwmanifest.xml"/>
